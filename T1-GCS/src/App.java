@@ -46,9 +46,10 @@ public class App {
             System.out.println("Resultado: " + resultado);
         }
 
-        // Teste dois
 
         sc.close();
     
+//teste 
+
     }
 }
